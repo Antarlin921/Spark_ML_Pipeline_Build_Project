@@ -1,0 +1,6 @@
+1. Identify a machine learning problem along with appropriate data
+2. Build a non-trivial Spark ML pipeline to solve the problem
+2a. Using a NoSQL database ( either MongoDB or Cassandra ) to store the data and accessing it from Spark will earn extra credit
+3. Package the solution into a Google Colab Notebook that can be executed to replicate the results. 
+3a Cells of the notebook should be adequately documented so that a reader can understand the logic used to solve the problem
+4. Create a Google Slides presentation that explains the origin of the problem, the nature of the data, the ML tools and techniques used to solve the problem, explains the results that are obtained in a business-like manner without too much ML jargon. Explain the results so that non-technical people can understand the value of your work.
